@@ -1,4 +1,4 @@
-# Mandlebrot visualizer  
+# Mandelbrot visualizer  
 
 ## usage guide
 - clone the repo to your system    
