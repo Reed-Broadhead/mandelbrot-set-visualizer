@@ -1,4 +1,5 @@
 # Mandelbrot visualizer  
+A simple C-based Mandelbrot set visualizer using SDL2.
 
 ## usage guide
 - clone the repo to your system    
