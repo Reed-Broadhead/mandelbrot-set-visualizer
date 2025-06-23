@@ -10,12 +10,13 @@
 
 int init(); // sets up screen and SDL2 fetures
 
-void end(); // terminates program and frees memory
+//void end(); // terminates program and frees memory
+void terminate();// terminates program and frees memory
 
 void drawFrac(); // draws the fractle
 
 int inMandle(); // converts pixel to complex number then calculates if in mandle brot set
-                
+
 // defaults incase error getting screen size
 int screenWidth = 640;  
 int screenHeight = 480;  
